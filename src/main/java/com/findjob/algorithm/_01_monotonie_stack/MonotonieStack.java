@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Stack;
 
 /**
- * 单调栈
+ * 单调栈 找到左右2边比当前位置小的位置
  */
 public class MonotonieStack {
 

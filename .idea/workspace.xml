@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00ca30eb-07b0-4ca0-b504-09de37778243" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/findjob/algorithm/_01_monotonie_stack/MonotonieStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/findjob/algorithm/_01_monotonie_stack/MonotonieStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,20 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MaxValueWindow">
+    <configuration name="MaxValueWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.findjob.algorithm._02_maxwindow.MaxValueWindow" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.findjob.algorithm._02_maxwindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MonotonieStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.findjob.algorithm._01_monotonie_stack.MonotonieStack" />
       <module name="algorithm" />
@@ -59,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxValueWindow" />
         <item itemvalue="Application.MonotonieStack" />
       </list>
     </recent_temporary>
@@ -71,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656687770697</updated>
-      <workItem from="1656687772043" duration="2788000" />
+      <workItem from="1656687772043" duration="4720000" />
     </task>
     <servers />
   </component>
@@ -94,8 +108,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/findjob/algorithm/_01_monotonie_stack/MonotonieStack.java</url>
-          <line>92</line>
+          <line>57</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/findjob/algorithm/_02_maxwindow/MaxValueWindow.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
