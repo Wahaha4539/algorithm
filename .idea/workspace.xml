@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00ca30eb-07b0-4ca0-b504-09de37778243" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/.描述以及解题思路_images/29da5156.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/.描述以及解题思路_images/a71eea2d.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/.描述以及解题思路_images/b40e2777.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/.描述以及解题思路_images/b40e2777.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/.描述以及解题思路_images/b716200b.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/.描述以及解题思路_images/b716200b.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/.描述以及解题思路_images/febce346.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/.描述以及解题思路_images/febce346.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/CordCoverMaxPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/CordCoverMaxPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/ParenthesesLegal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/ParenthesesLegal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/描述以及解题思路.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/描述以及解题思路.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/描述以及解题思路.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/描述以及解题思路.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +53,31 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ParenthesesLegal">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\vm\code\algorithm\src\main\java\com\algorithm\classic\_01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MaxSquare">
     <configuration name="CordCoverMaxPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.classic.CordCoverMaxPoint" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.algorithm.classic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.classic._01.MaxSquare" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.classic._01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,6 +100,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxSquare" />
         <item itemvalue="Application.ParenthesesLegal" />
         <item itemvalue="Application.CordCoverMaxPoint" />
       </list>
@@ -101,7 +116,7 @@
       <updated>1656687770697</updated>
       <workItem from="1656687772043" duration="6577000" />
       <workItem from="1656696671390" duration="7633000" />
-      <workItem from="1656756949083" duration="5819000" />
+      <workItem from="1656756949083" duration="10205000" />
     </task>
     <servers />
   </component>
