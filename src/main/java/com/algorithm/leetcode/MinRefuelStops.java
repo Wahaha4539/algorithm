@@ -1,4 +1,4 @@
-package com.findjob.algorithm.leetcode;
+package com.algorithm.leetcode;
 
 import java.util.Comparator;
 import java.util.HashMap;

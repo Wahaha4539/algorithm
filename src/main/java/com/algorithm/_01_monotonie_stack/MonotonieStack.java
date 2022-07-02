@@ -1,4 +1,4 @@
-package com.findjob.algorithm._01_monotonie_stack;
+package com.algorithm._01_monotonie_stack;
 
 import java.util.ArrayList;
 import java.util.List;
