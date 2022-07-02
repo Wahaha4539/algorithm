@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00ca30eb-07b0-4ca0-b504-09de37778243" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/findjob/algorithm/_01_monotonie_stack/MonotonieStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/_01_monotonie_stack/MonotonieStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/findjob/algorithm/_02_maxwindow/.滑动窗口最大值_images/b42c6413.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/_02_maxwindow/.滑动窗口最大值_images/b42c6413.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/findjob/algorithm/_02_maxwindow/.滑动窗口最大值_images/ca5439ea.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/_02_maxwindow/.滑动窗口最大值_images/ca5439ea.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/findjob/algorithm/_02_maxwindow/.滑动窗口最大值_images/dacb4db0.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/_02_maxwindow/.滑动窗口最大值_images/dacb4db0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/findjob/algorithm/_02_maxwindow/MaxValueWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/_02_maxwindow/MaxValueWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/findjob/algorithm/_02_maxwindow/滑动窗口最大值.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/_02_maxwindow/滑动窗口最大值.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/findjob/algorithm/leetcode/MinRefuelStops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/MinRefuelStops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/.描述以及解题思路_images/b40e2777.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/.描述以及解题思路_images/febce346.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -33,6 +30,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2BLaMPVcfohyMKncMcsxSnMPWcJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -52,13 +52,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MinRefuelStops">
-    <configuration name="MaxValueWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.findjob.algorithm._02_maxwindow.MaxValueWindow" />
+  <component name="RunManager" selected="Application.ParenthesesLegal">
+    <configuration name="CordCoverMaxPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.classic.CordCoverMaxPoint" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.findjob.algorithm._02_maxwindow.*" />
+          <option name="PATTERN" value="com.algorithm.classic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,25 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinRefuelStops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.findjob.algorithm.leetcode.MinRefuelStops" />
+    <configuration name="ParenthesesLegal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.classic.ParenthesesLegal" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.findjob.algorithm.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MonotonieStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.findjob.algorithm._01_monotonie_stack.MonotonieStack" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.findjob.algorithm._01_monotonie_stack.*" />
+          <option name="PATTERN" value="com.algorithm.classic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,9 +81,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MinRefuelStops" />
-        <item itemvalue="Application.MaxValueWindow" />
-        <item itemvalue="Application.MonotonieStack" />
+        <item itemvalue="Application.ParenthesesLegal" />
+        <item itemvalue="Application.CordCoverMaxPoint" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +96,7 @@
       <updated>1656687770697</updated>
       <workItem from="1656687772043" duration="6577000" />
       <workItem from="1656696671390" duration="7633000" />
-      <workItem from="1656756949083" duration="2065000" />
+      <workItem from="1656756949083" duration="4411000" />
     </task>
     <servers />
   </component>
