@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00ca30eb-07b0-4ca0-b504-09de37778243" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/.描述以及解题思路_images/b40e2777.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/.描述以及解题思路_images/febce346.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/.描述以及解题思路_images/b40e2777.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/.描述以及解题思路_images/b40e2777.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/.描述以及解题思路_images/b716200b.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/.描述以及解题思路_images/b716200b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/.描述以及解题思路_images/febce346.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/.描述以及解题思路_images/febce346.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/CordCoverMaxPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/CordCoverMaxPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/ParenthesesLegal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/ParenthesesLegal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/描述以及解题思路.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_01/描述以及解题思路.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +101,7 @@
       <updated>1656687770697</updated>
       <workItem from="1656687772043" duration="6577000" />
       <workItem from="1656696671390" duration="7633000" />
-      <workItem from="1656756949083" duration="4411000" />
+      <workItem from="1656756949083" duration="5819000" />
     </task>
     <servers />
   </component>

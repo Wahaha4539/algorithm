@@ -1,4 +1,4 @@
-package com.algorithm.classic;
+package com.algorithm.classic._01;
 
 public class CordCoverMaxPoint {
     public static int cordCoverMaxPoint(int[] arr, int L) {

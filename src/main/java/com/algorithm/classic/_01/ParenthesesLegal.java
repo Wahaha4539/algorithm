@@ -1,4 +1,4 @@
-package com.algorithm.classic;
+package com.algorithm.classic._01;
 
 public class ParenthesesLegal {
     public static boolean parenthesesLegal(String s) {
