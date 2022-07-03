@@ -35,7 +35,6 @@ public class LongestCommonSubstring {
         return max;
     }
 
-
     public static int dp2(String s1, String s2) {
         if (s1 == null || s1.length() < 1) {
             return 0;
@@ -67,6 +66,49 @@ public class LongestCommonSubstring {
         return max;
     }
 
+
+    public static int dp3(String s1, String s2) {
+        if (s1 == null || s1.length() < 1) {
+            return 0;
+        }
+        if (s2 == null || s2.length() < 1) {
+            return 0;
+        }
+        char[] string1 = s1.toCharArray();
+        char[] string2 = s2.toCharArray();
+        // dp[i][j] string1 必须以i结尾 string2 必须以j结尾 最长公共子串
+        int[][] dp = new int[string1.length][string2.length];
+        int row = 0;
+        int col = string2.length - 1;
+        int max = 0;
+        while (row < string1.length) {
+            int i = row;
+            int j = col;
+            int help = string1[i] == string2[j] ? 1 : 0;
+            i++;
+            j++;
+            max = Math.max(max, help);
+            while (i < string1.length && j < string2.length) {
+                if (string1[i] == string2[j]) {
+                    help = help + 1;
+                } else {
+                    help = 0;
+                }
+                max = Math.max(max, help);
+                i++;
+                j++;
+            }
+            if (col > 0) {
+                col--;
+            } else {
+                row++;
+            }
+
+        }
+        return max;
+        // 初始化第一行
+    }
+
     public static String generate(int length) {
         int len = (int) (Math.random() * length) + 1;
         char[] string = new char[len];
@@ -82,7 +124,7 @@ public class LongestCommonSubstring {
         for (int i = 0; i < 1000000; i++) {
             String string1 = generate(length);
             String string2 = generate(length);
-            if (longestCommonSubstring(string1, string2) != dp2(string1, string2)) {
+            if (longestCommonSubstring(string1, string2) != dp3(string1, string2)) {
                 System.out.println("Oops");
                 break;
             }

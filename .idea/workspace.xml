@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="00ca30eb-07b0-4ca0-b504-09de37778243" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_04/LongestCommonSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_04/LongestCommonSubstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +146,7 @@
       <workItem from="1656687772043" duration="6577000" />
       <workItem from="1656696671390" duration="7633000" />
       <workItem from="1656756949083" duration="14077000" />
-      <workItem from="1656846208934" duration="21470000" />
+      <workItem from="1656846208934" duration="22452000" />
     </task>
     <servers />
   </component>
