@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00ca30eb-07b0-4ca0-b504-09de37778243" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_07/.题目以及思路_images/2cbdc7ce.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_07/.题目以及思路_images/48461259.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,19 +40,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\vm\code\algorithm\src\main\java\com\algorithm\classic\_01" />
@@ -149,7 +147,7 @@
       <workItem from="1656756949083" duration="14077000" />
       <workItem from="1656846208934" duration="27623000" />
       <workItem from="1656930469129" duration="9970000" />
-      <workItem from="1657008493022" duration="7261000" />
+      <workItem from="1657008493022" duration="8889000" />
     </task>
     <servers />
   </component>
@@ -171,7 +169,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/_01_monotonie_stack/MonotonieStack.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/structure/_01_monotonie_stack/MonotonieStack.java</url>
           <line>57</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -192,5 +190,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
