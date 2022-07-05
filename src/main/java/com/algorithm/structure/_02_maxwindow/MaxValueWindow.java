@@ -1,4 +1,4 @@
-package com.algorithm._02_maxwindow;
+package com.algorithm.structure._02_maxwindow;
 
 import java.util.Arrays;
 import java.util.LinkedList;

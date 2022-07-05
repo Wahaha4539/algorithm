@@ -1,4 +1,4 @@
-package com.algorithm._01_monotonie_stack;
+package com.algorithm.structure._01_monotonie_stack;
 
 import java.util.ArrayList;
 import java.util.List;
