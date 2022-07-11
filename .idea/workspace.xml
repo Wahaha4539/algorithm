@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00ca30eb-07b0-4ca0-b504-09de37778243" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_08/.题目以及思路_images/f5612356.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,20 +58,7 @@
       <recent name="C:\vm\code\algorithm\src\main\java\com\algorithm\classic\_01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxSubarraySum">
-    <configuration name="Bag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.classic._04.Bag" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.classic._04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MaxSubarrayXORSum">
     <configuration name="LongestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.classic._04.LongestCommonSubsequence" />
       <module name="algorithm" />
@@ -125,13 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaxSubarrayXORSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.classic._08.MaxSubarrayXORSum" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.classic._08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxSubarrayXORSum" />
         <item itemvalue="Application.MaxSubarraySum" />
         <item itemvalue="Application.LongestIncreaseSubsequence" />
         <item itemvalue="Application.LongestCommonSubsequence" />
         <item itemvalue="Application.LongestCommonSubstring" />
-        <item itemvalue="Application.Bag" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +149,7 @@
       <workItem from="1656930469129" duration="9970000" />
       <workItem from="1657008493022" duration="11456000" />
       <workItem from="1657110934376" duration="1310000" />
+      <workItem from="1657572932812" duration="1809000" />
     </task>
     <servers />
   </component>
