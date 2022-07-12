@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00ca30eb-07b0-4ca0-b504-09de37778243" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_08/.题目以及思路_images/296aaa3a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_08/.题目以及思路_images/803b5b44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_08/.题目以及思路_images/aea08f6f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_09/.题目以及思路_images/07eb2b5d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_09/.题目以及思路_images/793e9be0.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_08/MaxSubarrayXORSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_08/MaxSubarrayXORSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_08/题目以及思路.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_08/题目以及思路.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -69,20 +73,7 @@
       <recent name="com.algorithm.classic._08" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxSubarrayXORSum">
-    <configuration name="LongestIncreaseSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.classic._05.LongestIncreaseSubsequence" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.classic._05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MinSteps">
     <configuration name="MaxSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.classic._06.MaxSubarraySum" />
       <module name="algorithm" />
@@ -98,6 +89,19 @@
     </configuration>
     <configuration name="MaxSubarrayXORSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.classic._08.MaxSubarrayXORSum" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.classic._08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinSteps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.classic._08.MinSteps" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinSteps" />
         <item itemvalue="Application.MaxSubarrayXORSum" />
         <item itemvalue="JUnit.MaxSubarrayXORSumTest" />
         <item itemvalue="JUnit.MaxSubarrayXORSumTest.test" />
         <item itemvalue="Application.MaxSubarraySum" />
-        <item itemvalue="Application.LongestIncreaseSubsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +170,7 @@
       <workItem from="1657008493022" duration="11456000" />
       <workItem from="1657110934376" duration="1310000" />
       <workItem from="1657572932812" duration="4908000" />
-      <workItem from="1657626017339" duration="4601000" />
+      <workItem from="1657626017339" duration="14256000" />
     </task>
     <servers />
   </component>
