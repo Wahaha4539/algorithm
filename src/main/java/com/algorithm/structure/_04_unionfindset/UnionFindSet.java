@@ -58,6 +58,9 @@ public class UnionFindSet<T> {
             // 报异常
             throw new RuntimeException("存在不属于数组中的数 ");
         }
+        if (isSameSet(value1, value2)) {
+            return ;
+        }
         Node head1 = findParent(node1);
         Node head2 = findParent(node2);
         Node big = this.sizeMap.get(head1) > this.sizeMap.get(head2) ? head1 : head2;
