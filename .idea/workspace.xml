@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00ca30eb-07b0-4ca0-b504-09de37778243" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_09/.题目以及思路_images/477f2a78.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_09/.题目以及思路_images/48109843.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_09/.题目以及思路_images/502ea079.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_09/.题目以及思路_images/87026c76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_09/.题目以及思路_images/d7e8b88c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_10/.题目以及思路_images/93440141.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_09/SumFromTwoArrayTopK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_09/SumFromTwoArrayTopK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_09/题目以及思路.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_09/题目以及思路.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="JUnit5 Test Class" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -74,20 +69,7 @@
       <recent name="com.algorithm.classic._08" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinSteps">
-    <configuration name="MaxSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.classic._06.MaxSubarraySum" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.classic._06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReverseInteger">
     <configuration name="MaxSubarrayXORSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.classic._08.MaxSubarrayXORSum" />
       <module name="algorithm" />
@@ -107,6 +89,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.algorithm.classic._08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.leetcode.ReverseInteger" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.MinSteps" />
         <item itemvalue="Application.MaxSubarrayXORSum" />
         <item itemvalue="JUnit.MaxSubarrayXORSumTest" />
         <item itemvalue="JUnit.MaxSubarrayXORSumTest.test" />
-        <item itemvalue="Application.MaxSubarraySum" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +166,7 @@
       <workItem from="1657008493022" duration="11456000" />
       <workItem from="1657110934376" duration="1310000" />
       <workItem from="1657572932812" duration="4908000" />
-      <workItem from="1657626017339" duration="19496000" />
+      <workItem from="1657626017339" duration="26898000" />
     </task>
     <servers />
   </component>
@@ -211,6 +206,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/MinRefuelStops.java</url>
           <line>53</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/ReverseInteger.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/ReverseInteger.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/ReverseInteger.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
