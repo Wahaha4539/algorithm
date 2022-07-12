@@ -7,7 +7,7 @@ import java.util.PriorityQueue;
  */
 public class SumFromTwoArrayTopK {
     private static class SumAndIndex {
-        private int sum;
+        private final int sum;
 
         public SumAndIndex(int sum, int indexFromArray1, int indexFromArray2) {
             this.sum = sum;
@@ -27,8 +27,8 @@ public class SumFromTwoArrayTopK {
             return indexFromArray2;
         }
 
-        private int indexFromArray1;
-        private int indexFromArray2;
+        private final int indexFromArray1;
+        private final int indexFromArray2;
     }
 
     public static int[] topKOfSumFromTwoArray(int[] array1, int[] array2, int k) {
