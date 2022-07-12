@@ -66,6 +66,73 @@ public class MaxSubarrayXORSum {
         return max;
     }
 
+    public static class TireTree {
+        private Node head = new Node();
+
+        public static class Node {
+            //[0] 0 [1] 1
+            Node[] nexts = new Node[2];
+        }
+
+        /**
+         * 加入前缀数
+         */
+        public void add(int value) {
+            Node cur = head;
+            for (int i = 31; i >= 0; i--) {
+                int path = (value >> i) & 1;
+                if (cur.nexts[path] == null) {
+                    cur.nexts[path] = new Node();
+                }
+                cur = cur.nexts[path];
+            }
+        }
+
+        public int maxXOR(int value) {
+            int[] paths = new int[32];
+            int path = (value >> 31) & 1;
+            paths[0] = possibleNode(head, path, 0);
+            char[] chars = new char[32];
+            chars[0] = (char) ('0' + (paths[0] ^ path));
+            Node cur = head.nexts[paths[0]];
+            for (int i = 30; i >= 0; i--) {
+                path = (value >> i) & 1;
+                paths[31 - i] = possibleNode(cur, path, 1);
+                chars[31 - i] = (char) ('0' + (paths[31 - i] ^ path));
+                cur = cur.nexts[paths[31 - i]];
+            }
+
+            return Integer.parseUnsignedInt(new String(chars), 2);
+        }
+
+        private int possibleNode(Node cur, int path, int possible) {
+            int possiblePath = path ^ possible;
+            // possiblePath ^ 1 意思是 如果possiblePath = 0， 则选择1 如果possiblePath = 1 则选择0， 因为cur.nexts[possiblePath] == null
+            return cur.nexts[possiblePath] == null ?  (possiblePath ^ 1) :  possiblePath;
+        }
+
+    }
+
+    /**
+     * 思路 根据前缀数来选择和哪位异或
+     * 二进制的结果 如果要尽可能大 那么最高位尽可能结果为0 其它位尽可能为1
+     */
+    public static int maxSubarryXORSumTire(int[] array) {
+        if (array == null || array.length < 1) {
+            return 0;
+        }
+        int max = Integer.MIN_VALUE;
+        int xor = 0;
+        TireTree tireTree = new TireTree();
+        tireTree.add(xor);
+        for (int i = 0; i < array.length; i++) {
+            xor = xor ^ array[i];
+            max = Math.max(max, tireTree.maxXOR(xor));
+            tireTree.add(xor);
+        }
+        return max;
+    }
+
     public static int[] generateArray(int maxLength, int maxValue) {
         int len = (int) (Math.random() * maxLength) + 1;
         int[] res = new int[len];
@@ -77,24 +144,25 @@ public class MaxSubarrayXORSum {
     }
 
     public static void main(String[] args) {
-        int maxLength = 1000;
+        int maxLength = 100;
         int maxValue = 100;
         int[] array = generateArray(maxLength, maxValue);
-//        for (int item : array) {
-//            System.out.print(item + " ");
-//        }
-//        System.out.println();
-//
-//        System.out.println(maxSubarryXORSumVionetSolution(array));
-//        System.out.println(maxSubarryXORSumAuxiliaryArray(array));
-
-
-        for (int i = 0; i < 100000; i++) {
+        for (int item : array) {
+            System.out.print(item + " ");
+        }
+        System.out.println();
+        System.out.println(maxSubarryXORSumVionetSolution(array));
+        System.out.println(maxSubarryXORSumAuxiliaryArray(array));
+        System.out.println(maxSubarryXORSumTire(array));
+        System.out.println("start");
+        int failure = 0;
+        for (int i = 0; i < 1000000; i++) {
             array = generateArray(maxLength, maxValue);
-            if (maxSubarryXORSumVionetSolution(array) != maxSubarryXORSumAuxiliaryArray(array)) {
+            if (maxSubarryXORSumVionetSolution(array) != maxSubarryXORSumTire(array)) {
                 System.out.println("Oops");
             }
         }
+        System.out.println(failure);
     }
 
 }
