@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00ca30eb-07b0-4ca0-b504-09de37778243" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_10/.题目以及思路_images/93440141.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_10/.题目以及思路_images/f93ae5ed.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_09/题目以及思路.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_09/题目以及思路.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_10/题目以及思路.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_10/题目以及思路.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +166,7 @@
       <workItem from="1657008493022" duration="11456000" />
       <workItem from="1657110934376" duration="1310000" />
       <workItem from="1657572932812" duration="4908000" />
-      <workItem from="1657626017339" duration="26898000" />
+      <workItem from="1657626017339" duration="28611000" />
     </task>
     <servers />
   </component>
