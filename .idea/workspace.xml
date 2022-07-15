@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00ca30eb-07b0-4ca0-b504-09de37778243" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_11/.题目以及思路_images/4a4142cf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_12/.题目以及思路_images/2a69da10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_13/.题目以及思路_images/0f531fd4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_13/.题目以及思路_images/1dab03ab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_13/.题目以及思路_images/30812e41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_13/.题目以及思路_images/abc506c6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_13/.题目以及思路_images/c7426e45.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_14/.题目和思路_images/30b53ac5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_14/.题目和思路_images/3f3b08de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_14/.题目和思路_images/4ed0d673.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_14/.题目和思路_images/ad902613.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_14/.题目和思路_images/e5343eab.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_11/题目以及思路.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_11/题目以及思路.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_17/题目以及思路.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_17/题目以及思路.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +68,7 @@
       <recent name="com.algorithm.classic._08" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.algorithm.classic._18" />
       <recent name="com.algorithm.classic._16" />
       <recent name="com.algorithm.classic._14" />
       <recent name="com.algorithm.classic._13" />
@@ -179,7 +168,9 @@
       <workItem from="1657572932812" duration="4908000" />
       <workItem from="1657626017339" duration="31098000" />
       <workItem from="1657717812709" duration="13729000" />
-      <workItem from="1657800542457" duration="23844000" />
+      <workItem from="1657800542457" duration="26189000" />
+      <workItem from="1657887847819" duration="1967000" />
+      <workItem from="1657916846225" duration="4164000" />
     </task>
     <servers />
   </component>
