@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00ca30eb-07b0-4ca0-b504-09de37778243" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_22/.题目和思路_images/60ecd6c1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_20/题目和思路.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_20/题目和思路.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_31/RestoreWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/classic/_31/RestoreWays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,19 +70,20 @@
       <recent name="com.algorithm.classic._08" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.algorithm.classic._18" />
-      <recent name="com.algorithm.classic._16" />
-      <recent name="com.algorithm.classic._14" />
-      <recent name="com.algorithm.classic._13" />
+      <recent name="com.algorithm.classic._31" />
+      <recent name="com.algorithm.classic._29" />
+      <recent name="com.algorithm.classic._28" />
+      <recent name="com.algorithm.classic._27" />
+      <recent name="com.algorithm.classic._25" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PalindromeWays">
-    <configuration name="JosephRing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.classic._16.JosephRing" />
+  <component name="RunManager" selected="Application.PaintingProblem">
+    <configuration name="DivideCandy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.classic._24.DivideCandy" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.classic._16.*" />
+          <option name="PATTERN" value="com.algorithm.classic._24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoRepeatSubStringLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.classic._09.NoRepeatSubStringLength" />
+    <configuration name="PaintingProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.classic._26.PaintingProblem" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.classic._09.*" />
+          <option name="PATTERN" value="com.algorithm.classic._26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_05_LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.leetcode._05_LongestPalindromicSubstring" />
+    <configuration name="PostOfficeProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.classic._25.PostOfficeProblem" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.leetcode.*" />
+          <option name="PATTERN" value="com.algorithm.classic._25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_09_PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.leetcode._09_PalindromeNumber" />
+    <configuration name="_292_NimGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.leetcode._292_NimGame" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -141,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PaintingProblem" />
+        <item itemvalue="Application.PostOfficeProblem" />
+        <item itemvalue="Application.DivideCandy" />
+        <item itemvalue="Application._292_NimGame" />
         <item itemvalue="Application.PalindromeWays" />
-        <item itemvalue="Application.JosephRing" />
-        <item itemvalue="Application._09_PalindromeNumber" />
-        <item itemvalue="Application._05_LongestPalindromicSubstring" />
-        <item itemvalue="Application.NoRepeatSubStringLength" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +176,14 @@
       <workItem from="1657916846225" duration="4855000" />
       <workItem from="1657929577198" duration="3468000" />
       <workItem from="1657989825717" duration="595000" />
-      <workItem from="1658015715710" duration="2669000" />
+      <workItem from="1658015715710" duration="3814000" />
+      <workItem from="1658096405560" duration="10958000" />
+      <workItem from="1658190204249" duration="5921000" />
+      <workItem from="1658201899121" duration="9759000" />
+      <workItem from="1658267155855" duration="812000" />
+      <workItem from="1658369035717" duration="2625000" />
+      <workItem from="1658451684968" duration="22876000" />
+      <workItem from="1658562502617" duration="3518000" />
     </task>
     <servers />
   </component>
@@ -247,6 +258,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/classic/_16/JosephRing.java</url>
           <line>7</line>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/classic/_25/PostOfficeProblem.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/classic/_25/PostOfficeProblem.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
