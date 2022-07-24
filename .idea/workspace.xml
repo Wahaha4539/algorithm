@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="00ca30eb-07b0-4ca0-b504-09de37778243" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/structure/_06_DC3/DC3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/structure/_06_DC3/DC3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/_05_LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/leetcode/_05_LongestPalindromicSubstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,26 +79,13 @@
       <recent name="com.algorithm.classic._27" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RadixSort">
+  <component name="RunManager" selected="Application._05_LongestPalindromicSubstring">
     <configuration name="DC3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.structure._06_DC3.DC3" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.algorithm.structure._06_DC3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DivideCandy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.classic._24.DivideCandy" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.classic._24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,13 +132,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_05_LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.leetcode._05_LongestPalindromicSubstring" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._05_LongestPalindromicSubstring" />
         <item itemvalue="Application.RadixSort" />
         <item itemvalue="Application.DC3" />
         <item itemvalue="Application.PaintingProblem" />
         <item itemvalue="Application.PostOfficeProblem" />
-        <item itemvalue="Application.DivideCandy" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +186,7 @@
       <workItem from="1658369035717" duration="2625000" />
       <workItem from="1658451684968" duration="22876000" />
       <workItem from="1658562502617" duration="12454000" />
-      <workItem from="1658620434047" duration="2407000" />
+      <workItem from="1658620434047" duration="5622000" />
     </task>
     <servers />
   </component>
