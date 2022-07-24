@@ -2,10 +2,19 @@ package com.algorithm.structure._06_DC3;
 
 public class DC3 {
 
+	/**
+	 * 下标名次，value为后缀数
+	 */
 	public int[] sa;
 
+	/**
+	 * 下标为后缀数，value为名次
+	 */
 	public int[] rank;
 
+	/**
+	 * height[i] i指名次 sa[i] x sa[i - 1] y  x代表的后缀串 与 y代表的后缀串 最大公共前缀
+	 */
 	public int[] height;
 
 	// 构造方法的约定:
